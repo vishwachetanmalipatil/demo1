@@ -1,3 +1,3 @@
 # demo1
 this is my first git repository
-author-vishwachetan
+author-vishwachetan (demo1)
